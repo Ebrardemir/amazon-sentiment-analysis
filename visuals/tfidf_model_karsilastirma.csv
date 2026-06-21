@@ -1,0 +1,4 @@
+﻿Model,Val Accuracy,Val F1,Val ROC-AUC,Test Accuracy,Test Precision,Test Recall,Test F1,Test ROC-AUC,Eğitim Süresi (sn)
+Logistic Regression,0.8821,0.8849,0.952,0.8833,0.8892,0.8827,0.8859,0.9523,5.65
+Linear SVM,0.8818,0.8846,0.952,0.8821,0.8879,0.8817,0.8848,0.9521,8.42
+Multinomial Naive Bayes,0.8599,0.8654,0.9365,0.8609,0.8569,0.8752,0.8659,0.9371,0.08
